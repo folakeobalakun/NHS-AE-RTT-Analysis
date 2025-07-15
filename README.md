@@ -26,4 +26,13 @@ _All data are aggregate, publicly available, and contain **no patient‑identifi
 | **A&E Attendances** | `SUM(TotalAttends)` | Proxy for unplanned demand |
 | **Patients ≥52 w** | `SUM(Wait_52w)` | Absolute backlog burden |
 
+
+## Core Visuals
+
+| Page | Screenshot / GIF | Interactive insight |
+|------|------------------|---------------------|
+| National Trend — 4‑Hour % vs 52‑Week Backlog % | **_Add trend.png_** | Shows whether ED and elective pressures move together or diverge |
+| Trust League Table — Sorted by Backlog % | **_Add league.png_** | Highlights worst‑performing trusts for the selected month |
+| Demand vs Backlog Scatter | **_Add scatter.gif_** | Upper‑right quadrant = trusts with both high demand and high backlog |
+
 ---
