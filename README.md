@@ -38,4 +38,6 @@ _All data are aggregate, publicly available, and contain **no patient‑identifi
 **https://github.com/folakeobalakun/NHS-AE-RTT-Analysis/blob/main/Visuals/Screenshot%202025-07-15%20at%2018.48.03.png**
 **https://github.com/folakeobalakun/NHS-AE-RTT-Analysis/blob/main/Visuals/Screenshot%202025-07-15%20at%2018.52.51.png**
 **https://github.com/folakeobalakun/NHS-AE-RTT-Analysis/blob/main/Visuals/Screenshot%202025-07-15%20at%2018.53.53.png**
+| Demand vs Backlog Scatter | ![Demand vs Backlog Scatter](https://raw.githubusercontent.com/folakeobalakun/NHS-AE-RTT-Analysis/main/Visuals/Screenshot%202025-07-15%20at%2018.53.53.png) | Upper‑right quadrant = trusts with both high demand and large ≥ 52‑week backlogs |
+
 ---
