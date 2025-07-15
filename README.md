@@ -6,3 +6,5 @@ Interactive Power BI dashboard tracking NHS A&amp;E 4‑hour performance and 5
 ## 🚀 Project Purpose
 Elective backlogs and emergency‑department crowding are two of the most visible NHS performance issues.  
 This dashboard lets managers, analysts, and clinicians **see both problems in one place**, filtering by month and region down to individual trusts.
+
+
