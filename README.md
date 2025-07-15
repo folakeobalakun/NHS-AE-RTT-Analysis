@@ -18,3 +18,11 @@ This dashboard lets managers, analysts, and clinicians **see both problems in on
 _All data are aggregate, publicly available, and contain **no patient‑identifiable information**._
 
 ---
+
+## 🗂️ Datasets
+
+| Source | File(s) in this repo | Month range | Direct link |
+|--------|---------------------|-------------|-------------|
+| **A&E Attendances & Emergency Admissions** | CSV bundle inside `June 2024 – May 2025 A&E Data/` | Jun 2024 → Jun 2025 | [Browse ↗](https://github.com/folakeobalakun/NHS-AE-RTT-Analysis/tree/main/June%202024%20-%20May%202025%20A%26E%20Data) |
+| **RTT Provider Incomplete Pathways** | Monthly CSVs inside `RTT June 2024 – May 2025/` | Jun 2024 → May 2025 | [Browse ↗](https://github.com/folakeobalakun/NHS-AE-RTT-Analysis/tree/main/RTT%20June%202024-May%202025) |
+| **ODS Trust Lookup** | `etr.csv` (Q1 2025 snapshot) | Point‑in‑time lookup | [View ↗](https://github.com/folakeobalakun/NHS-AE-RTT-Analysis/blob/main/etr.csv) |
