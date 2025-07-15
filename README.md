@@ -35,9 +35,8 @@ _All data are aggregate, publicly available, and contain **no patient‑identifi
 | Trust League Table — Sorted by Backlog % | Highlights worst‑performing trusts for the selected month |
 | Demand vs Backlog Scatter | **_Add scatter.gif_** | Upper‑right quadrant = trusts with both high demand and high backlog |
 
-**https://github.com/folakeobalakun/NHS-AE-RTT-Analysis/blob/main/Visuals/Screenshot%202025-07-15%20at%2018.48.03.png**
-**https://github.com/folakeobalakun/NHS-AE-RTT-Analysis/blob/main/Visuals/Screenshot%202025-07-15%20at%2018.52.51.png**
-**https://github.com/folakeobalakun/NHS-AE-RTT-Analysis/blob/main/Visuals/Screenshot%202025-07-15%20at%2018.53.53.png**
+| National Trend | ![National Trend – 4‑Hour % vs 52‑Week Backlog %](https://raw.githubusercontent.com/folakeobalakun/NHS-AE-RTT-Analysis/main/Visuals/Screenshot%202025-07-15%20at%2018.48.03.png) | Shows the year‑on‑year improvement in A&E four‑hour performance alongside the decline in ≥ 52‑week elective backlog |
+| Trust League Table | ![Trust League Table](https://raw.githubusercontent.com/folakeobalakun/NHS-AE-RTT-Analysis/main/Visuals/Screenshot%202025-07-15%20at%2018.52.51.png) | Highlights the 20 trusts with the highest ≥ 52‑week backlog for the selected month |
 | Demand vs Backlog Scatter | ![Demand vs Backlog Scatter](https://raw.githubusercontent.com/folakeobalakun/NHS-AE-RTT-Analysis/main/Visuals/Screenshot%202025-07-15%20at%2018.53.53.png) | Upper‑right quadrant = trusts with both high demand and large ≥ 52‑week backlogs |
 
 ---
