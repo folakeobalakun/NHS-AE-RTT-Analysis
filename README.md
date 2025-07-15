@@ -15,7 +15,7 @@ This dashboard lets managers, analysts, and clinicians **see both problems in on
 | **RTT Provider Incomplete Pathways** | Monthly CSVs inside | Jun 2024 → May 2025 | [Browse ↗](https://github.com/folakeobalakun/NHS-AE-RTT-Analysis/tree/main/RTT%20June%202024-May%202025) |
 | **ODS Trust Lookup** | (Q1 2025 snapshot) | Point‑in‑time lookup | [View ↗](https://github.com/folakeobalakun/NHS-AE-RTT-Analysis/blob/main/etr.csv) |
 
-_All data are aggregate, publicly available, and contain **no patient‑identifiable information**._
+_All data are aggregate that has been appended into 1, publicly available, and contain **no patient‑identifiable information**._
 
 ## Key KPIs
 
