@@ -17,4 +17,13 @@ This dashboard lets managers, analysts, and clinicians **see both problems in on
 
 _All data are aggregate, publicly available, and contain **no patient‑identifiable information**._
 
+## Key KPIs
+
+| KPI | Definition (DAX) | Why it matters |
+|-----|------------------|----------------|
+| **4‑Hour A&E Performance %** | `SUM(SeenWithin4h) / SUM(TotalAttends)` | NHS constitutional standard is **95 %** |
+| **≥52‑Week RTT Backlog %** | `SUM(Wait_52w) / SUM(Wait_Total)` | Elective waits over a year are a prime backlog metric |
+| **A&E Attendances** | `SUM(TotalAttends)` | Proxy for unplanned demand |
+| **Patients ≥52 w** | `SUM(Wait_52w)` | Absolute backlog burden |
+
 ---
