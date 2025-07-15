@@ -29,10 +29,13 @@ _All data are aggregate, publicly available, and contain **no patient‑identifi
 
 ## Core Visuals
 
-| Page | Screenshot / GIF | Interactive insight |
-|------|------------------|---------------------|
-| National Trend — 4‑Hour % vs 52‑Week Backlog % | **_[Add trend.png_](https://github.com/folakeobalakun/NHS-AE-RTT-Analysis/blob/main/Visuals/Screenshot%202025-07-15%20at%2018.48.03.png)** | Shows whether ED and elective pressures move together or diverge |
-| Trust League Table — Sorted by Backlog % | **_Add league.png_** | Highlights worst‑performing trusts for the selected month |
+| Page  | Interactive insight |
+|------|---------------------|
+| National Trend — 4‑Hour % vs 52‑Week Backlog % | Shows whether ED and elective pressures move together or diverge |
+| Trust League Table — Sorted by Backlog % | Highlights worst‑performing trusts for the selected month |
 | Demand vs Backlog Scatter | **_Add scatter.gif_** | Upper‑right quadrant = trusts with both high demand and high backlog |
 
+**https://github.com/folakeobalakun/NHS-AE-RTT-Analysis/blob/main/Visuals/Screenshot%202025-07-15%20at%2018.48.03.png**
+**https://github.com/folakeobalakun/NHS-AE-RTT-Analysis/blob/main/Visuals/Screenshot%202025-07-15%20at%2018.52.51.png**
+**https://github.com/folakeobalakun/NHS-AE-RTT-Analysis/blob/main/Visuals/Screenshot%202025-07-15%20at%2018.53.53.png**
 ---
